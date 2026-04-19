@@ -11,7 +11,7 @@
 
 - 🌱 I'm continuously refining my expertise in **AI, Advanced System Design, MVVM, Clean Architecture, and the Android OS** to deliver custom applications tailored to your specific use case.
 
-- 👨‍💻 Explore my portfolio and open-source contributions at[https://github.com/Mohamed-Nafae?tab=repositories](https://github.com/Mohamed-Nafae?tab=repositories)
+- 👨‍💻 Explore my portfolio and open-source contributions at [https://github.com/Mohamed-Nafae?tab=repositories](https://github.com/Mohamed-Nafae?tab=repositories)
 
 - 📫 Let's discuss your next project! Reach me at: **benmeddourbm@gmail.com**
 
