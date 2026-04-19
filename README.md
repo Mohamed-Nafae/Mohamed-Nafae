@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **delivering high-quality freelance Android solutions** that are secure and highly performant.
 
-- 🌱 I'm continuously refining my expertise in **AI, Advanced System Design, MVVM, Clean Architecture, and the Android OS** to deliver custom applications tailored to your specific use case.
+- 🌱 I'm continuously refining my expertise in **AI, Advanced System Design, MVVM, Clean Architecture, Kotlin, JetPack Compose and the Android OS** to deliver custom applications tailored to your specific use case.
 
 - 👨‍💻 Explore my portfolio and open-source contributions at [https://github.com/Mohamed-Nafae?tab=repositories](https://github.com/Mohamed-Nafae?tab=repositories)
 
@@ -33,6 +33,7 @@
     <td align="center" width="70"><a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/>Express</a></td>
     <td align="center" width="70"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</a></td>
     <td align="center" width="70"><a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br/>Kotlin</a></td>
+    <td align="center" width="80"><a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="40" height="40"/><br/>Compose</a></td>
     <td align="center" width="70"><a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br/>Android</a></td>
     <td align="center" width="70"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</a></td>
     <td align="center" width="70"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</a></td>
