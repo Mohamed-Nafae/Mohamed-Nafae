@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benmeddour Mohamed Nafae</h1>
-<h3 align="center">Freelance Android App Developer | Specializing in Clean Architecture & Secure Applications</h3>
-
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=250&section=header&text=Benmeddour%20Mohamed%20Nafae&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Android%20App%20Developer&descAlignY=55&descAlign=50&descSize=22&animation=fadeIn" alt="Banner" width="100%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Nafae&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Nafae" /> </p>
